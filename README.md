@@ -37,3 +37,8 @@ You will need a web browser to open the HTML file.
 
    ```bash
    git clone https://github.com/your-username/simple-calculator.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd simple-calculator
