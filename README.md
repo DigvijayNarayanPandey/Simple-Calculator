@@ -13,8 +13,8 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can check out the live demo of the calculator by opening the following URL in your web browser:
-[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+You can check out the live demo of the calculator by opening the following URL in your web browser:  
+[Simple Calculator - Live Demo](https://digvijaynarayanpandey.github.io/Simple-Calculator/)
 
 ## Features
 
